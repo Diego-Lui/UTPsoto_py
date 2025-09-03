@@ -1,7 +1,7 @@
 import random as rd
 lista= [] # lista vacia
-for i in rango (5): #inicio de un bucle es con el :el identado es importante
-    num=rd.randint(1;10)#genera son numeros aleatorios del 1 al 10
+for i in range (5): #inicio de un bucle es con el :el identado es importante
+    num=rd.randint(1,10)#genera son numeros aleatorios del 1 al 10
     lista.append(num)#append añade a ala lista
 print(lista)
 
